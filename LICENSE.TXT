@@ -1,4 +1,4 @@
-LICENSE.TXT                                                                                                                         Version 1.0
+LICENSE.TXT                                                                                                                                 Version 1.1
 
 Cette licence a été créé par le créateur de ce répertoire.
 
