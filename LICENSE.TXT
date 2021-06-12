@@ -1,4 +1,4 @@
-LICENSE.TXT                                                                                                                               Version 1.3
+LICENSE.TXT                                                                                                                               Version 1.4
 
 Cette licence a été créé par le créateur de ce répertoire.
 
@@ -12,8 +12,30 @@ Voici les sites officiaux de TELECHARGEMENTS des sites se trouvant ici
 
 Entre parenthèse, il y aura marqué si il y a besoin d'une license pour le programme correspondant ou non.
 
--
-Arrivera dans une future mise à jour de ce fichier texte
--
+/!\ Certains liens (que vous devrez copier dans votre navigateur) menent vers les liens de téléchargement direct et d'autres non, faites attention ! /!\
+
+Google Chrome : https://www.google.fr/chrome/thank-you.html?brand=CHBF&statcb=1&installdataindex=empty&defaultbrowser=0#
+
+MPC-HC : https://github.com/clsid2/mpc-hc/releases
+
+FastStone Capture : https://www.faststonesoft.net/DN/FSCaptureSetup95.exe (NECESSITE UN LICENSE A 19,95$ OU UNE REINSTALLATION DU PROGRAMME TOUT LES 30 JOURS !)
+
+Adobe Acrobat Reader DC : https://get.adobe.com/fr/reader/download/?installer=Reader_DC_2021.005.20048_French_for_Windows&os=Windows%2010&browser_type=KHTML&browser_dist=Chrome&dualoffer=false&mdualoffer=true&cr=false&stype=7595&d=McAfee_Security_Scan_Plus&d=McAfee_Safe_Connect  (SERA MIS A JOUR COMME LE PROGRAMME)
+
+7-Zip : https://www.7-zip.org/a/7z2102-x64.exe
+
+Java 8 Update 291 (Offline File): https://javadl.oracle.com/webapps/download/AutoDL?BundleId=244584_d7fc238d0cbf4b0dac67be84580cfb4b
+
+AZ-Launcher : https://www.az-launcher.nz/goto/dl?arch=win
+
+Audacity : https://www.fosshub.com/Audacity.html/audacity-win-3.0.2.exe
+
+Discord : https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86
+
+D'autres programmes seront ajouté à ce répertoire Discord, soyez toujours au courant !
+
+Cordialement
+
+L'Univers des Jeux Vidéos, Inc.
 
 © 2021 L'Univers des Jeux Vidéos, Inc.                                                                           Tout droits réservés !
