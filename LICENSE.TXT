@@ -1,6 +1,6 @@
-LICENSE.TXT                                                                                                                               Version 1.4
+LICENSE.TXT                                                                                                                               Version 1.5
 
-Cette licence a été créé par le créateur de ce répertoire.
+Cette licence a été créé par le créateur de ce répertoire, CreeperGreg95.
 
 Tout les programmes se trouvant ici, viennent des sites officiaux ci-dessous.
 
