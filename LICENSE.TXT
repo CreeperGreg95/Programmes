@@ -1,4 +1,4 @@
-LICENSE.TXT                                                                                                                               Version 1.7
+LICENSE.TXT                                                                                                                               Version 1.8
 
 Cette licence a été créé par le créateur de ce répertoire, CreeperGreg95.
 
@@ -24,7 +24,7 @@ Entre parenthèse, il y aura marqué si il y a besoin d'une license pour le prog
 - Audacity : https://www.fosshub.com/Audacity.html/audacity-win-3.0.2.exe
 - Discord : https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86
 
-D'autres programmes seront ajouté à ce répertoire Discord, soyez toujours au courant !
+D'autres programmes seront ajouté à ce répertoire GitHub, soyez toujours au courant !
 
 Cordialement
 
