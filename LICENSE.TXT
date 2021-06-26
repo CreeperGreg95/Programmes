@@ -1,4 +1,4 @@
-LICENSE.TXT                                                                                                                               Version 1.8.1
+LICENSE.TXT                                                                                                                               Version 1.9
 
 Cette licence a été créé par le créateur de ce répertoire, CreeperGreg95.
 
@@ -23,12 +23,22 @@ Entre parenthèse, il y aura marqué si il y a besoin d'une license pour le prog
 - AZ-Launcher : https://www.az-launcher.nz/goto/dl?arch=win
 - Audacity : https://www.fosshub.com/Audacity.html/audacity-win-3.0.2.exe
 - Discord : https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86
+- Microsoft Visual Studio Code : https://code.visualstudio.com/sha/download?build=insider&os=win32-x64-user
+- Microsoft Visual Studio Code Insiders : https://code.visualstudio.com/sha/download?build=insider&os=win32-x64-user
+- Microsoft Visual Studio 2019 : https://visualstudio.microsoft.com/fr/thank-you-downloading-visual-studio/?sku=Community&rel=16 (Community ONLY)
+- Microsoft Visual Studio 2019 Preview : https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/? ch=pre&sku=community&rel=16&utm_medium=microsoft&utm_source=docs.microsoft.com&utm_campaign=download+from+relnotes&utm_content=vs2019preview+button (Community ONLY)
+- Microsoft Visual Studio 2022 Preview 1 : https://visualstudio.microsoft.com/fr/thank-you-downloading-visual-studio/?sku=community&ch=pre&rel=17 (Community ONLY)
+- Microsoft PC Health Checker : https://aka.ms/GetPCHealthCheckApp (Fonctionne seulement pour Windows 10 UNIQUEMENT)
 
 D'autres programmes seront ajouté à ce répertoire GitHub, soyez toujours au courant !
+
+* Visual Studio Code, Visual Studio Code Insiders, Visual Studio 2019, Visual Studio 2019 Preview, Visual Studio 2022 Preview 1 ainsi que Microsoft PC Health Checker sont des marques déposées par Microsoft Corporation (TM)
+
+(TM) veut dire Trademark
 
 Cordialement
 
 L'Univers des Jeux Vidéos, Inc.
 
-June 2021
+26, June 2021
 © 2021 L'Univers des Jeux Vidéos, Inc.                                                                           Tout droits réservés !
