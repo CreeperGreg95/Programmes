@@ -30,6 +30,11 @@ Entre parenthèse, il y aura marqué si il y a besoin d'une license pour le prog
 - Microsoft Visual Studio 2022 Preview 1 : https://visualstudio.microsoft.com/fr/thank-you-downloading-visual-studio/?sku=community&ch=pre&rel=17 (Community ONLY)
 - Microsoft PC Health Checker : https://aka.ms/GetPCHealthCheckApp (Fonctionne seulement pour Windows 10 UNIQUEMENT)
 - Microsoft Edge : https://www.microsoft.com/fr-fr/edge
+- CCleaner : https://www.ccleaner.com/fr-fr/ccleaner/download
+- Mozilla Firefox : https://www.mozilla.org/firefox/download/thanks/
+- Mozilla Thunderbird : https://download.mozilla.org/?product=thunderbird-78.11.0-SSL&os=win64&lang=fr
+- LibreOffice 7.1.4.2 : https://fr.libreoffice.org/donate/dl/win-x86_64/7.1.4/fr/LibreOffice_7.1.4_Win_x64.msi
+- LibreOffice HelpPack French 7.1.4.2 : https://download.documentfoundation.org/libreoffice/stable/7.1.4/win/x86_64/LibreOffice_7.1.4_Win_x64_helppack_fr.msi
 
 D'autres programmes seront ajouté à ce répertoire GitHub, soyez toujours au courant !
 
