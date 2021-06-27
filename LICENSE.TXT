@@ -1,4 +1,4 @@
-LICENSE.TXT                                                                                                                               Version 1.10
+LICENSE.TXT                                                                                                                               Version 1.10.2
 
 Cette licence a été créé par le créateur de ce répertoire, CreeperGreg95.
 
